@@ -97,3 +97,12 @@ body{
 .myimage{
     justify-content: right;
 }
+.card{
+    overflow: hidden;
+}
+.card:hover{
+    transform: scale(1.10);
+}
+.card{
+    transition: 0.5s;
+}
